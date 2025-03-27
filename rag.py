@@ -16,7 +16,7 @@ CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
 COLLECTION_NAME = "DocumentCollection"
 
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+GOOGLE_API_KEY = "AIzaSyAyiDHf71D-4N39MS9CVRjYyUL_PqX3TBo"
 
 def ensure_directories_exist():
     """Create necessary directories if they don't exist."""

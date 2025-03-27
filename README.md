@@ -10,6 +10,9 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Lang
 - Comparison between RAG and LLM-only responses
 - Response saving and output management
 
+## Demo video
+https://www.loom.com/share/c66e2f425bd04012be228dc9b6791c2e?sid=a5acc261-923a-4bec-8813-3c005a084d6a
+
 ## Prerequisites
 Ensure you have the following installed:
 - Python 3.8+
